@@ -6,7 +6,12 @@ The files same as above are also uploaded in following links:
 
 NAME - ADEEBA RASHID
 
-REGISTRATION NUMBER - 20BAI10107
+REGISTRATION NUMBER - 20BAI10107  
+  
+  
+CAMPUS - VIT BHOPAL  
+  
+TECHNOLOLGY TRACK - DATA ANALYTICS
 
 Assignments (which contains all 3 assignments) drive link - https://drive.google.com/drive/folders/197B1l-NK3kQWtEmA2HKjhHWi9IcCeR09
 
